@@ -1,4 +1,4 @@
-# Tổ Phát Thanh Official Landing Page
+# Tổ Phát Thanh | Official Landing Page
 
 https://ncdhmoony.github.io/tophatthanh/
 
